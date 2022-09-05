@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/services-details-3": "pages/services-details-3.js",
+  "/blog-large-left-sidebar": "pages/blog-large-left-sidebar.js"
+}
