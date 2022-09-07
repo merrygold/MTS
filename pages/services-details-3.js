@@ -79,7 +79,7 @@ function ServicesDetails3() {
 									<h3>How You Start Web Development ?</h3>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
 									<ul className="list-check style-1 primary">
-										<li>Lorem Ipsum is simply dummy text of the printing.</li>
+										<li> simply dummy text of the printing.</li>
 										<li>Lorem Ipsum has been the industry's standard dummy text ever.</li>
 										<li>when an unknown printer took a galley of type and scrambled.</li>
 										<li>It has survived not only five centuries, but also the leap.</li>

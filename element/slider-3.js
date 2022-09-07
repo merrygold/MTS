@@ -12,9 +12,9 @@ function Slider3 () {
 					<div className="row align-items-center">
 						<div className="col-md-6">
 							<div className="banner-content text-white">
-								<h6 data-wow-delay="0.5s" data-wow-duration="3s" className="wow fadeInUp sub-title text-yellow">We Are Product Designer From India</h6>
+								<h6 data-wow-delay="0.5s" data-wow-duration="3s" className="wow fadeInUp sub-title text-yellow">We Are Product Designer From Pakistan</h6>
 								<h1 data-wow-delay="1s" data-wow-duration="3s" className="wow fadeInUp m-b20">We Design Interfaces That Users Love</h1>
-								<p  data-wow-delay="1.5s" data-wow-duration="3s" className="wow fadeInUp m-b30">Morbi sed lacus nec risus finibus feugiat et fermentum nibh. Pellentesque vitae ante at elit fringilla ac at purus.</p>
+								<p  data-wow-delay="1.5s" data-wow-duration="3s" className="wow fadeInUp m-b30">Mech Tech Solutions</p>
 								<Link href="about-us-3"><a  data-wow-delay="2s" data-wow-duration="3s" className="wow fadeInUp  btn btn-corner gradient btn-primary">Learn More</a></Link>
 								
 							</div>

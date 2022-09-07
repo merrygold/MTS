@@ -11,9 +11,9 @@ function Footer3() {
 					<div className="col-xl-3 col-lg-12 col-md-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div className="widget widget_about">
 							<div className="footer-logo">
-								<a href="/"><img src="images/logo-white.png" alt=""/></a> 
+								<a href="/"><img src="images/logo/logo-mts.png" alt="not appearing"/></a> 
 							</div>
-							<p>Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.</p>
+							<p>Software engineering is a systematic engineering approach to software development. A software engineer is a person who applies the principles of software engineering to design, develop, maintain, test, and evaluate computer software.</p>
 							<div className="dlab-social-icon">
 								<ul>
 									<li><a className="fa fa-facebook" href="https://en-gb.facebook.com/"></a></li>
@@ -65,15 +65,15 @@ function Footer3() {
 							<ul>
 								<li>
 									<i className="fa fa-phone gradient"></i>
-									<span>+91 123-456-7890<br/>+91 987-654-3210</span> 
+									<span>+92 335 414 5013<br/>+92 335 414 5013</span> 
 								</li>
 								<li>
 									<i className="fa fa-envelope gradient"></i> 
-									<span>info@example.com <br/>info@example.com</span>
+									<span>info@mechtechsolutions.com <br/>www.mechtechsolutions.com</span>
 								</li>
 								<li>
 									<i className="fa fa-map-marker gradient"></i>
-									<span>Marmora Road Chi Minh City, Vietnam</span>
+									<span>Raiwind road, Lahore, Pakistan</span>
 								</li>
 							</ul>
 						</div>
@@ -86,7 +86,7 @@ function Footer3() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-12 text-center"> 
-						<span className="copyright-text">Copyright © 2021 <a href="https://dexignzone.com/" target="_blank">DexignZone</a>. All rights reserved.</span> 
+						<span className="copyright-text">Copyright © 2021 <a href="https://mechtechsolutions.com/" target="_blank">mechtechsolutions</a>. All rights reserved.</span> 
 					</div>
                 </div>
             </div>

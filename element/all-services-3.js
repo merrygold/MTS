@@ -16,7 +16,7 @@ function AllServices3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Strategy & Research</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<p className="m-b20">A Research Strategy is a step-by-step plan of action that gives direction to your thoughts and efforts, enabling you to conduct research systematically and on schedule to produce quality results and detailed reporting.</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -28,7 +28,7 @@ function AllServices3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Web Development</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<p className="m-b20">Web development services help create all types of web-based software and ensure great experience for web users. At ScienceSoft, we professionally design, redesign and continuously support customer-facing and enterprise web apps to achieve high conversion and adoption rates</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -39,8 +39,8 @@ function AllServices3() {
 								<span className="icon-cell"><i className="flaticon-laptop"></i></span> 
 							</div>
 							<div className="icon-content">
-								<h4 className="dlab-title m-b15">Web Solution</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<h4 className="dlab-title m-b15">Web Solutions</h4>
+								<p className="m-b20">web solution is a program distributed over a network (typically a corporate intranet or the Internet the same platform) and accessible through a common web browser.</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -51,8 +51,8 @@ function AllServices3() {
 								<span className="icon-cell"><i className="flaticon-dollar"></i></span> 
 							</div>
 							<div className="icon-content">
-								<h4 className="dlab-title m-b15">Company Branding</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<h4 className="dlab-title m-b15">IOT</h4>
+								<p className="m-b20">Internet of Things, refers to the collective network of connected devices and the technology that facilitates communication between devices and the cloud, as well as between the devices themselves.</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -63,8 +63,8 @@ function AllServices3() {
 								<span className="icon-cell"><i className="flaticon-line-chart"></i></span> 
 							</div>
 							<div className="icon-content">
-								<h4 className="dlab-title m-b15">SEO & Marketing</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<h4 className="dlab-title m-b15">BlockChain</h4>
+								<p className="m-b20"> Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network.</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -76,7 +76,13 @@ function AllServices3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">24X7 Support</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<p className="m-b20">Our globally distributed team allows us to serve as reliable partners for your needs, no matter what time of day. We are always accessible via Slack instant messenger, Zoom, Text, Phone, Email, or our project management portal, Teamwork.
+
+
+Security and Up-Time
+Ensure security, performance, and up-time, from the hosting platform to the website to the CDN and WAF.
+
+</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
