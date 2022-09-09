@@ -9,7 +9,7 @@ function Service3() {
 		<section className="content-inner">
 			<div className="container">
 				<div className="section-head style-3 text-center mb-4">
-					<h2 className="title">Our Speciallization</h2>
+					<h2 className="title">Our Specializations</h2>
 					<div className="dlab-separator style-2 bg-primary"></div>
 				</div>
 				<div className="row">
@@ -20,7 +20,7 @@ function Service3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Strategy & Research</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<p className="m-b20">Tell us your problem we'll provide the solution. </p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -32,7 +32,7 @@ function Service3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Web Development</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<p className="m-b20">Hire web designers and developers to help your business grow.</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -43,8 +43,8 @@ function Service3() {
 								<span className="icon-cell"><i className="flaticon-laptop"></i></span> 
 							</div>
 							<div className="icon-content">
-								<h4 className="dlab-title m-b15">Web Solution</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<h4 className="dlab-title m-b15">BlockChain</h4>
+								<p className="m-b20"> We will teach the advance knowledge about decentralized blockchain. </p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>

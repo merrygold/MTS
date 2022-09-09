@@ -18,12 +18,12 @@ function Blog3() {
 							</div>
 							<div className="dlab-info">
 								<h5 className="dlab-title">
-									<Link href="blog-details-3"><a>Vestibulum massa arcu, consectetu  pellentesque scelerisque.</a></Link>
+									<Link href="blog-details-3"><a>Mech Tech Solutions:</a></Link>
 								</h5>
-								<p>Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.</p>
+								<p>A company with great work.Most trustable company!</p>
 								<div className="dlab-meta">
 									<ul>
-										<li className="post-date"><i className="flaticon-clock m-r10"></i>7 March, 2020</li>
+										<li className="post-date"><i className="flaticon-clock m-r10"></i>7 March, 2019</li>
 										<li className="post-comment"><a href="javascript:void(0);"><i className="flaticon-speech-bubble"></i><span>15</span></a></li>
 										<li className="post-share"><i className="flaticon-share"></i>
 											<ul>
@@ -44,12 +44,12 @@ function Blog3() {
 							</div>
 							<div className="dlab-info">
 								<h5 className="dlab-title">
-									<Link href="blog-details-3"><a>Quisque egestas iaculis felis eget placerat ut pulvinar mi.</a></Link>
+									<Link href="blog-details-3"><a>News about MTS</a></Link>
 								</h5>
-								<p>Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.</p>
+								<p>Most improved company and you can rely on it completely.</p>
 								<div className="dlab-meta">
 									<ul>
-										<li className="post-date"><i className="flaticon-clock m-r10"></i>7 March, 2020</li>
+										<li className="post-date"><i className="flaticon-clock m-r10"></i>9 July, 2016</li>
 										<li className="post-comment"><a href="javascript:void(0);"><i className="flaticon-speech-bubble"></i><span>15</span></a></li>
 										<li className="post-share"><i className="flaticon-share"></i>
 											<ul>
@@ -70,12 +70,12 @@ function Blog3() {
 							</div>
 							<div className="dlab-info">
 								<h5 className="dlab-title">
-									<Link href="blog-details-3"><a>Fusce sem ligula, imperdiet sed nisi sit amet, euismod posuere.</a></Link>
+									<Link href="blog-details-3"><a>MTS company</a></Link>
 								</h5>
-								<p>Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.</p>
+								<p>This company is completely dependable! it has great developers and great team.</p>
 								<div className="dlab-meta">
 									<ul>
-										<li className="post-date"><i className="flaticon-clock m-r10"></i>7 March, 2020</li>
+										<li className="post-date"><i className="flaticon-clock m-r10"></i>4 June, 2020</li>
 										<li className="post-comment"><a href="javascript:void(0);"><i className="flaticon-speech-bubble"></i><span>15</span></a></li>
 										<li className="post-share"><i className="flaticon-share"></i>
 											<ul>
@@ -96,12 +96,12 @@ function Blog3() {
 							</div>
 							<div className="dlab-info">
 								<h5 className="dlab-title">
-									<Link href="blog-details-3"><a>Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.</a></Link>
+									<Link href="blog-details-3"><a>News about MechTech</a></Link>
 								</h5>
-								<p>Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.</p>
+								<p>There clients are fully satisfied with their extraordinary work totally recommendable.</p>
 								<div className="dlab-meta">
 									<ul>
-										<li className="post-date"><i className="flaticon-clock m-r10"></i>7 March, 2020</li>
+										<li className="post-date"><i className="flaticon-clock m-r10"></i>7 May, 2020</li>
 										<li className="post-comment"><a href="javascript:void(0);"><i className="flaticon-speech-bubble"></i><span>15</span></a></li>
 										<li className="post-share"><i className="flaticon-share"></i>
 											<ul>

@@ -23,8 +23,8 @@ function TestimonialSlider3() {
 								<img src="images/testimonials/pic1.jpg" alt=""/>
 							</div>
 							<div className="testimonial-text">
-								<p>Nullam et velit mollis, dictum eros a, vehicula turpis. Aenean feugiat congue faucibus. Nullam dapibus ex ex, vulputate gravida nisi mattis in. Duis maximus odio sed turpis vehicula auctor sit amet ut urna. Nam non libero ut ex fermentum consectetur et in dolor. Morbi tempor gravida diam nec lacinia. Suspendisse vehicula ultricies arcu.</p>
-								<strong className="testimonial-name">Cak Dikin</strong> 
+								<p>My all problems were solved within time.My emails and phone calls are answered quickly and i am never made to feel small.I think of the people at MTS are my freinds.</p>
+								<strong className="testimonial-name">krutika</strong> 
 							</div>
 						</div>
 					</div>
@@ -34,8 +34,8 @@ function TestimonialSlider3() {
 								<img src="images/testimonials/pic3.jpg" alt=""/>
 							</div>
 							<div className="testimonial-text">
-								<p>Nullam et velit mollis, dictum eros a, vehicula turpis. Aenean feugiat congue faucibus. Nullam dapibus ex ex, vulputate gravida nisi mattis in. Duis maximus odio sed turpis vehicula auctor sit amet ut urna. Nam non libero ut ex fermentum consectetur et in dolor. Morbi tempor gravida diam nec lacinia. Suspendisse vehicula ultricies arcu.</p>
-								<strong className="testimonial-name">Cak Dikin</strong> 
+								<p>They contacted me quickly, and deal with my issue promptly and professionally.I can highly recommend this company.</p>
+								<strong className="testimonial-name">Catherine</strong> 
 							</div>
 						</div>
 					</div>
@@ -45,8 +45,8 @@ function TestimonialSlider3() {
 								<img src="images/testimonials/pic1.jpg" alt=""/>
 							</div>
 							<div className="testimonial-text">
-								<p>Nullam et velit mollis, dictum eros a, vehicula turpis. Aenean feugiat congue faucibus. Nullam dapibus ex ex, vulputate gravida nisi mattis in. Duis maximus odio sed turpis vehicula auctor sit amet ut urna. Nam non libero ut ex fermentum consectetur et in dolor. Morbi tempor gravida diam nec lacinia. Suspendisse vehicula ultricies arcu.</p>
-								<strong className="testimonial-name">Cak Dikin</strong> 
+								<p>Any problem i have are dealt it with immediately and effeciently.I often make simple mistakes in this area so need help they contacted me and solved my problem.</p>
+								<strong className="testimonial-name">larah</strong> 
 							</div>
 						</div>
 					</div>
@@ -56,7 +56,7 @@ function TestimonialSlider3() {
 								<img src="images/testimonials/pic3.jpg" alt=""/>
 							</div>
 							<div className="testimonial-text">
-								<p>Nullam et velit mollis, dictum eros a, vehicula turpis. Aenean feugiat congue faucibus. Nullam dapibus ex ex, vulputate gravida nisi mattis in. Duis maximus odio sed turpis vehicula auctor sit amet ut urna. Nam non libero ut ex fermentum consectetur et in dolor. Morbi tempor gravida diam nec lacinia. Suspendisse vehicula ultricies arcu.</p>
+								<p>I have a great experience with Mech Tech Solutions team.They worked for my website and make it on the first page of google. </p>
 								<strong className="testimonial-name">Cak Dikin</strong> 
 							</div>
 						</div>

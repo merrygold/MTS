@@ -13,18 +13,14 @@ function AboutUs3() {
             </div>
             <div className="col-lg-6">
               <div className="section-head style-3 mb-4">
-                <h2 className="title">Why Our Agency</h2>
+                <h2 className="title">Why Our Agency?</h2>
                 <div className="dlab-separator style-2 bg-primary"></div>
               </div>
               <p>
-                In dictum aliquam turpis lacinia iaculis. Fusce vel malesuada
-                magna. Nulla vel maximus risus. Donec volutpat metus lacinia
-                risus accumsan, ac bibendum libero efficitur. Pellentesque nec
-                nisi sit amet magna tempus hendrerit ut a odio.
+              We are providing a variety of experts and engineers from different fields with over 10 years of experience who are ready to be hired as your human resources, we are masters in finding, evaluating, and introducing the best specialists to conduct your tasks.
               </p>
               <p className="m-b30">
-                Praesent rhoncus commodo tortor, id pulvinar nisl blandit at.
-                Nulla facilisi. Quisque turpis ante, vehicula condimentum arcu.
+              We offer the perfect offshore development team to suit your needs. 
               </p>
               <Counter3 />
             </div>

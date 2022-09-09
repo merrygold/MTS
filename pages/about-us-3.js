@@ -58,21 +58,17 @@ function AboutUs_3() {
                   data-wow-delay="0.2s"
                 >
                   <div className="section-head style-3 mb-4">
-                    <h2 className="title">Watch Us How Our Team Work Togather</h2>
+                    <h2 className="title">We Are Increasing Business Success With Technology</h2>
                     <div className="dlab-separator style-2 bg-primary"></div>
                   </div>
                   <p>
-                    Praesent fermentum nisl at ipsum facilisis viverra. Ut
-                    elementum accumsan finibus. Cras placerat lacinia mi, ac
-                    dictum ante. Donec libero enim, tincidunt sit amet venenatis
-                    id, maximus eu quam.{" "}
+                  We are providing a variety of experts and engineers from different fields with over 15+ years of experience who are ready to be hired as your human resources, we are masters in finding, evaluating, and introducing the best specialists to conduct your tasks.Our members of dedicated teams are the experts because we not only care about working with the best professionals, but also have the resources to actively work with them.{" "}
                   </p>
                   <ul className="list-check style-1 primary m-b30">
-                    <li>Suspendisse ullamcorper mollis orci in facilisis.</li>
-                    <li>Etiam orci magna, accumsan varius enim volutpat.</li>
+                    <li>15+ years of experience.</li>
+                    <li>Ready to be hired as your human resources.</li>
                     <li>
-                      Donec fringilla velit risus, in imperdiet turpis euismod
-                      quis.
+                    masters in finding, evaluating, and introducing the best specialists to conduct your tasks.
                     </li>
                   </ul>
                 </div>
@@ -109,7 +105,7 @@ function AboutUs_3() {
         <section className="content-inner">
           <div className="container">
             <div className="section-head style-3 text-center mb-4">
-              <h2 className="title">Our Speciallization</h2>
+              <h2 className="title">Our Speciallizations:</h2>
               <div className="dlab-separator style-2 bg-primary"></div>
             </div>
             <div className="row">
@@ -127,9 +123,9 @@ function AboutUs_3() {
                   <div className="icon-content">
                     <h4 className="dlab-title m-b15">Strategy & Research</h4>
                     <p className="m-b20">
-                      Mauris ut felis malesuada eros varius tristique a at orci.
-                      Nulla vulputate, leo sit amet rhoncus suscipit, enim ex
-                      venenatis ipsum, et porttitor.
+                    Tell us your problem we'll provide the solution.
+
+
                     </p>
                     <Link href="services-3">
                       <a className="btn btn-outline-primary">
@@ -153,9 +149,9 @@ function AboutUs_3() {
                   <div className="icon-content">
                     <h4 className="dlab-title m-b15">Web Development</h4>
                     <p className="m-b20">
-                      Mauris ut felis malesuada eros varius tristique a at orci.
-                      Nulla vulputate, leo sit amet rhoncus suscipit, enim ex
-                      venenatis ipsum, et porttitor.
+                    Hire web designers and developers to help your business grow.
+
+
                     </p>
                     <Link href="services-3">
                       <a className="btn btn-outline-primary">
@@ -177,11 +173,9 @@ function AboutUs_3() {
                     </span>
                   </div>
                   <div className="icon-content">
-                    <h4 className="dlab-title m-b15">Web Solution</h4>
+                    <h4 className="dlab-title m-b15">BlockChain</h4>
                     <p className="m-b20">
-                      Mauris ut felis malesuada eros varius tristique a at orci.
-                      Nulla vulputate, leo sit amet rhoncus suscipit, enim ex
-                      venenatis ipsum, et porttitor.
+                    We will teach the advance knowledge about decentralized blockchain.
                     </p>
                     <Link href="services-3">
                       <a className="btn btn-outline-primary">
@@ -226,7 +220,7 @@ function AboutUs_3() {
             <div className="row align-items-center subscribe-wraper-1">
               <div className="col-lg-7 col-md-6">
                 <h2 className="text-white title m-b30">
-                  Subscribe To Our Newsletter For Latest Update Of New Products
+                  Subscribe To Our Newsletter For Latest Update Of New Projects
                 </h2>
               </div>
               <div className="col-lg-5 col-md-6">
@@ -289,19 +283,17 @@ function AboutUs_3() {
                     <h5 className="dlab-title">
                       <Link href="blog-details-3">
                         <a>
-                          Vestibulum massa arcu, consectetu pellentesque
-                          scelerisque.
+                        Mech Tech Solutions
                         </a>
                       </Link>
                     </h5>
                     <p>
-                      Sed quis sagittis velit. Aliquam velit eros, bibendum ut
-                      massa et, consequat laoreet erat nam ac imperdiet.
+                    A company with great work.Most trustable company!
                     </p>
                     <div className="dlab-meta">
                       <ul>
                         <li className="post-date">
-                          <i className="flaticon-clock m-r10"></i>7 March, 2020
+                          <i className="flaticon-clock m-r10"></i>7 March, 2019
                         </li>
                         <li className="post-comment">
                           <a href="javascript:void(0);">
@@ -350,19 +342,17 @@ function AboutUs_3() {
                     <h5 className="dlab-title">
                       <Link href="blog-details-3">
                         <a>
-                          Quisque sem tortor, convallis in arcu eu, accumsan
-                          finibus massa.
+                        News about MTS
                         </a>
                       </Link>
                     </h5>
                     <p>
-                      Sed quis sagittis velit. Aliquam velit eros, bibendum ut
-                      massa et, consequat laoreet erat nam ac imperdiet.
+                    Most improved company and you can rely on it completely.
                     </p>
                     <div className="dlab-meta">
                       <ul>
                         <li className="post-date">
-                          <i className="flaticon-clock m-r10"></i>7 March, 2020
+                          <i className="flaticon-clock m-r10"></i>9 July, 2016
                         </li>
                         <li className="post-comment">
                           <a href="javascript:void(0);">
@@ -411,19 +401,18 @@ function AboutUs_3() {
                     <h5 className="dlab-title">
                       <Link href="blog-details-3">
                         <a>
-                          Praesent ut lobortis purus hasellus libero orci,
-                          accumsan
+                        MTS company
                         </a>
                       </Link>
                     </h5>
                     <p>
-                      Sed quis sagittis velit. Aliquam velit eros, bibendum ut
-                      massa et, consequat laoreet erat nam ac imperdiet.
+                    This company is completely dependable! it has great developers and great team.
                     </p>
                     <div className="dlab-meta">
                       <ul>
                         <li className="post-date">
-                          <i className="flaticon-clock m-r10"></i>7 March, 2020
+                          <i className="flaticon-clock m-r10"></i>4 June, 2020
+
                         </li>
                         <li className="post-comment">
                           <a href="javascript:void(0);">
@@ -474,19 +463,17 @@ function AboutUs_3() {
                     <h5 className="dlab-title">
                       <Link href="blog-details-3">
                         <a>
-                          Fusce sem ligula, imperdiet sed nisi sit amet, euismod
-                          posuere.
+                        News about MechTech
                         </a>
                       </Link>
                     </h5>
                     <p>
-                      Sed quis sagittis velit. Aliquam velit eros, bibendum ut
-                      massa et, consequat laoreet erat nam ac imperdiet.
+                    There clients are fully satisfied with their extraordinary work totally recommendable.
                     </p>
                     <div className="dlab-meta">
                       <ul>
                         <li className="post-date">
-                          <i className="flaticon-clock m-r10"></i>7 March, 2020
+                          <i className="flaticon-clock m-r10"></i>7 May, 2020
                         </li>
                         <li className="post-comment">
                           <a href="javascript:void(0);">

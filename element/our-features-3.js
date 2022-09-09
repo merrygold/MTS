@@ -7,7 +7,7 @@ function Features3() {
 		<section className="content-inner bg-white">
 			<div className="container">
 				<div className="section-head style-3 text-center">
-					<h2 className="title">Our Fetures</h2>
+					<h2 className="title">Our Features:</h2>
 					<div className="dlab-separator style-2 bg-primary"></div>
 				</div>
 				<div className="row align-items-center about-wraper-2">
@@ -20,7 +20,7 @@ function Features3() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Idea & Analysis</h4>
-										<p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+										<p>We know how to analyze your ideas.We provide the best analysis of your ideas.</p>
 									</div>
 								</div>
 							</div>
@@ -31,7 +31,7 @@ function Features3() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Designing</h4>
-										<p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+										<p>We'll teach you many different skills for the production and maintenance of websites.</p>
 									</div>
 								</div>
 							</div>
@@ -51,7 +51,7 @@ function Features3() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Development</h4>
-										<p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+										<p>You can make your business grow by hiring our able and dedicated developers.</p>
 									</div>
 								</div>
 							</div>
@@ -61,8 +61,8 @@ function Features3() {
 										<a href="javascript:void(0);" className="icon-cell text-white"><i className="flaticon-rocket"></i></a> 
 									</div>
 									<div className="icon-content">
-										<h4 className="dlab-tilte text-capitalize">Testing & Lunching</h4>
-										<p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+										<h4 className="dlab-tilte text-capitalize">Security</h4>
+										<p>The protection of intellectual property and confidential information is the priority of our dedicated development team.</p>
 									</div>
 								</div>
 							</div>

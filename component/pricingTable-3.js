@@ -27,7 +27,7 @@ function PricingT3() {
 										<li>Web Design</li>
 										<li>UI/UX</li>
 										<li>HTML/CSS</li>
-										<li>SEO Marketing</li>
+										<li>BlockChain</li>
 										<li>Business Analysis</li>
 									</ul>
 									<div className="pricingtable-footer"> 
@@ -41,7 +41,7 @@ function PricingT3() {
 								<div className="pricingtable-inner">
 									<div className="pricingtable-head">
 										<div className="pricingtable-title">
-											<h3>Standart Plan</h3>
+											<h3>Standard Plan</h3>
 										</div>
 										<div className="icon-cell">
 											<img src="images/pricingtable/icon2.png" alt=""/>
@@ -55,7 +55,7 @@ function PricingT3() {
 										<li>Web Design</li>
 										<li>UI/UX</li>
 										<li>HTML/CSS</li>
-										<li>SEO Marketing</li>
+										<li>BlockChain</li>
 										<li>Business Analysis</li>
 									</ul>
 									<div className="pricingtable-footer"> 
@@ -83,7 +83,7 @@ function PricingT3() {
 										<li>Web Design</li>
 										<li>UI/UX</li>
 										<li>HTML/CSS</li>
-										<li>SEO Marketing</li>
+										<li>BlockChain</li>
 										<li>Business Analysis</li>
 									</ul>
 									<div className="pricingtable-footer"> 

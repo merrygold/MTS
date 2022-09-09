@@ -64,10 +64,10 @@ function BlogDetails3() {
 											<Link href="blog-details-3"><a><img src="images/blog/recent-blog/pic1.jpg" alt=""/></a></Link>
 										</div>
                                         <div className="dlab-info">
-											<h4 className="title"><Link href="blog-details-3"><a>Fusce mollis felis quis tristique</a></Link></h4>
+											<h4 className="title"><Link href="blog-details-3"><a>There clients are fully satisfied with their extraordinary work totally recommendable.</a></Link></h4>
                                             <div className="dlab-meta">
 												<ul>
-													<li className="post-date"> 7 March, 2020 </li>
+													<li className="post-date"> 2 March, 2017 </li>
 												</ul>
 											</div>
                                         </div>
@@ -77,10 +77,10 @@ function BlogDetails3() {
 											<Link href="blog-details-3"><a><img src="images/blog/recent-blog/pic2.jpg" alt=""/></a></Link>
 										</div>
                                         <div className="dlab-info">
-											<h4 className="title"><Link href="blog-details-3"><a>Fusce mollis felis quis tristique</a></Link></h4>
+											<h4 className="title"><Link href="blog-details-3"><a>Their clients are increasing.</a></Link></h4>
 											<div className="dlab-meta">
 												<ul>
-													<li className="post-date"> 7 March, 2020 </li>
+													<li className="post-date"> 8 December, 2017 </li>
 												</ul>
 											</div>
                                         </div>
@@ -90,10 +90,10 @@ function BlogDetails3() {
 											<Link href="blog-details-3"><a><img src="images/blog/recent-blog/pic3.jpg" alt=""/></a></Link>
 										</div>
                                         <div className="dlab-info">
-											<h4 className="title"><Link href="blog-details-3"><a>Fusce mollis felis quis tristique</a></Link></h4>
+											<h4 className="title"><Link href="blog-details-3"><a>Their working is awesome.</a></Link></h4>
                                             <div className="dlab-meta">
 												<ul>
-													<li className="post-date"> 7 March, 2020 </li>
+													<li className="post-date"> 7 April, 2021 </li>
 												</ul>
 											</div>
                                         </div>
@@ -103,10 +103,10 @@ function BlogDetails3() {
 											<Link href="blog-details-3"><a><img src="images/blog/recent-blog/pic3.jpg" alt=""/></a></Link>
 										</div>
                                         <div className="dlab-info">
-											<h4 className="title"><Link href="blog-details-3"><a>Fusce mollis felis quis tristique</a></Link></h4>
+											<h4 className="title"><Link href="blog-details-3"><a>MTS is trending.</a></Link></h4>
                                             <div className="dlab-meta">
 												<ul>
-													<li className="post-date"> 7 March, 2020 </li>
+													<li className="post-date"> 6 june, 2020 </li>
 												</ul>
 											</div>
                                         </div>
