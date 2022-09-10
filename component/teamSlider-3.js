@@ -58,7 +58,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">Emily Smith</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior Developer</span>
 							</div>
 						</div>
 					</div>
@@ -71,7 +71,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">Blake Run</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior worker</span>
 							</div>
 						</div>
 					</div>
@@ -84,7 +84,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">Jenna Smith</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior Designer no 2</span>
 							</div>
 						</div>
 					</div>
@@ -97,7 +97,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">John Doe</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior Developer</span>
 							</div>
 						</div>
 					</div>
@@ -123,7 +123,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">Blake Run</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior Developer 2</span>
 							</div>
 						</div>
 					</div>
@@ -136,7 +136,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">Jenna Smith</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior Designer 3</span>
 							</div>
 						</div>
 					</div>
@@ -149,7 +149,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">John Doe</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior Designer 3</span>
 							</div>
 						</div>
 					</div>
@@ -162,7 +162,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">Emily Smith</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior Developer</span>
 							</div>
 						</div>
 					</div>
@@ -188,7 +188,7 @@ function TeamSlider3() {
 						<div className="dlab-content">
 							<div className="clearfix">
 								<h3 className="dlab-name"><a href="/team-3">Jenna Smith</a></h3>
-								<span className="dlab-position">Senior Designer</span>
+								<span className="dlab-position">Senior Developer</span>
 							</div>
 						</div>
 					</div>

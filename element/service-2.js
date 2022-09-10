@@ -24,7 +24,7 @@ function Service2() {
 							<div className="wraper-effect"></div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Strategy & Research</h4>
-								<p>Vestibulum a efficitur ex. Ut iaculis dapibus iaculis. Praesent lacus magna, rhoncus quis magna quis, pellentesque luctus leoam iaculis venenatis.</p>
+								<p>Tell us your problem we'll provide the solution.</p>
 							</div>
 						</div>
 					</div>

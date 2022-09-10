@@ -5,37 +5,37 @@ function Accordion_sm() {
     const [activeDefault, setActiveDefault] = useState(0);
     const defaultAccordion = [
         {
-            title: "Fusce sem ligula, imperdiet sed nisi sit amet ?",
+            title: "How can we improve your learning ?",
             text:
-                "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.",
+                "We can improve your learning by provding you the best facilities of courses.",
             bg: "primary",
         },
         {
-            title: "Maecenas aliquet quam sed tellus cursus ?",
+            title: "What can you learn from our website?",
             text:
-                "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.",
+                "You can learn different useful things from our website like BlockChain etc.",
 
             bg: "info",
         },
         {
-            title: "Proin blandit sed arcu sed ultricies ?",
+            title: "Can we help you make right decisions?",
             text:
-                "Donec suscipit porta lorem eget condimentum. Morbi vitae mauris in leo venenatis varius. Aliquam nunc enim, egestas ac dui in, aliquam vulputate erat. Curabitur porttitor ante ut odio vestibulum, et iaculis arcu scelerisque.Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.",
+                "Yes, we can. You can ask us on our email of MechTech solutions.",
 
             bg: "success",
             
         },
         {
-            title: "Proin cursus massa ipsum, sit amet ?",
+            title: "Can you contact us ?",
             text:
-                "Donec suscipit porta lorem eget condimentum. Morbi vitae mauris in leo venenatis varius. Aliquam nunc enim, egestas ac dui in, aliquam vulputate erat. Curabitur porttitor ante ut odio vestibulum, et iaculis arcu scelerisque.Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.",
+                "You can contact us by sending us mail.",
 
             bg: "success",
         },
         {
-            title: "Quisque sem tortor, accumsan finibus massa ?",
+            title: "Will we continue improving ?",
             text:
-                "Donec suscipit porta lorem eget condimentum. Morbi vitae mauris in leo venenatis varius. Aliquam nunc enim, egestas ac dui in, aliquam vulputate erat. Curabitur porttitor ante ut odio vestibulum, et iaculis arcu scelerisque.Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.",
+                " Yes we will continue making necessary improvements and updates.",
 
             bg: "success",
         },

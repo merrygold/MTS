@@ -37,11 +37,11 @@ function Services3() {
 		 {/* <!-- Services --> */}
 		<AllServices3/>
 		
-		{/* // <!-- Our Fetures --> */}
+		{/* // <!-- Our Features --> */}
 		<section className="content-inner bg-gray">
 			<div className="container">
 				<div className="section-head style-3 text-center">
-					<h2 className="title">Our Fetures</h2>
+					<h2 className="title">Our Features:</h2>
 					<div className="dlab-separator style-2 bg-primary"></div>
 				</div>
 				<div className="row align-items-center about-wraper-2">
@@ -54,7 +54,7 @@ function Services3() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Idea & Analysis</h4>
-										<p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+										<p>We know how to analyze your ideas.We provide the best analysis of your ideas.</p>
 									</div>
 								</div>
 							</div>
@@ -65,7 +65,7 @@ function Services3() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Designing</h4>
-										<p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+										<p>We'll teach you many different skills for the production and maintenance of websites.</p>
 									</div>
 								</div>
 							</div>
@@ -85,7 +85,7 @@ function Services3() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Development</h4>
-										<p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+										<p>You can make your business grow by hiring our able and dedicated developers.</p>
 									</div>
 								</div>
 							</div>
@@ -96,7 +96,7 @@ function Services3() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Testing & Lunching</h4>
-										<p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+										<p>The protection of intellectual property and confidential information is the priority of our dedicated development team.</p>
 									</div>
 								</div>
 							</div>
